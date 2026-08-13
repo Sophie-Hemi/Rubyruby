@@ -12,4 +12,5 @@ p even_elements(a)
 # 그 역에 해당되는 메서드로 reject 메서드가 있다.
 
 #Python의 extend 메서드에 비견되는 걸로,
-#Ruby에서는 insert 메서드가 있다.
+#Ruby에서는 concat 메서드가 있다.
+#아직은 파이썬도 루비도 뉴비라서 헷갈려요 ^^
